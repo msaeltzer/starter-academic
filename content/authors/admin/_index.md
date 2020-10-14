@@ -30,8 +30,8 @@ interests:
 education:
   courses:
   - course: MA Comparative Politics 
-   institution: Universität Hamburg
-   year: 2017
+    institution: Universität Hamburg
+    year: 2017
   
   - course: BA Political Science 
     institution: Universität Hamburg
