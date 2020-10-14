@@ -30,14 +30,15 @@ interests:
 education:
   courses:
   - course: MA Comparative Politics 
-  institution : Universität Hamburg: 2017
+   institution: Universität Hamburg
+   year: 2017
   
   - course: BA Political Science 
     institution: Universität Hamburg
     year: 2015
 
   - course: BSc Economics 
-    institution: Universtität Mannheim
+    institution: Universtität Mannheim 
     year: 2012
 
 # Social/Academic Networking
