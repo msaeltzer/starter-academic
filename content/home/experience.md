@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Doctoral Researcher"
   company = "MZES Universität Mannheim"
@@ -32,6 +33,8 @@ date_format = "Jan 2006"
   * Document Parsing
   """
 
+"""
+
 [[experience]]
   title = "Teaching Assistant"
   company = "Universität Mannheim"
@@ -40,6 +43,7 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = ""
   description = """Teaching courses on data collection, text analysis and social media."""
+
   """
 
 [[experience]]
