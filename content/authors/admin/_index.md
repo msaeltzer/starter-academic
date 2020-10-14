@@ -29,12 +29,15 @@ interests:
 
 education:
   courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA Comparative Politics: Universität Hamburg: 2017
+  
+  - course: BA Political Science 
+    institution: Universität Hamburg
+    year: 2015
+
+  - course: BSc Economics 
+    institution: Universtität Mannheim
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
