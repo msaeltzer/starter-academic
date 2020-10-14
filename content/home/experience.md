@@ -33,8 +33,6 @@ date_format = "Jan 2006"
   * Document Parsing
   """
 
-"""
-
 [[experience]]
   title = "Teaching Assistant"
   company = "Universität Mannheim"
@@ -43,9 +41,7 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = ""
   description = ""
-  
-  """
-
+ 
 [[experience]]
   title = "Student Research Assistant"
   company = "WiSo Laboratory"
