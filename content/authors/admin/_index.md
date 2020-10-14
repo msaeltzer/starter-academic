@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marius Sältzer
 
 # Username (this should match the folder name)
 authors:
@@ -15,21 +15,20 @@ role: Doctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: Universität Mannheim
-  url: ""
+  url: "https://www.sowi.uni-mannheim.de/debus/team/akademische-mitarbeiterinnen-und-mitarbeiter/saeltzer-marius/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Party Politics
+- Intra-party heterogeneity
+- Social Media 
+- Text as Data
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -44,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:msaeltzer@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/marius_saeltzer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=myokIq4AAAAJ&hl=de&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/msaeltzer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "msaeltzer@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my homepage! I am a doctoral researcher in political science focusing on comparitive politics.
+I am a doctoral researcher in political science focusing on comparitive politics.
 My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
 their constituencies? To answer these questions I apply methods of quantatitive text analysis to all kinds of political text.
 
