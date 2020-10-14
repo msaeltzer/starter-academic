@@ -49,6 +49,6 @@ date_format = "Jan 2006"
   location = "Universität Hamburg"
   date_start = "2013-12-01"
   date_end = "2017-08-01"
-  description = """Survey and experimental administration."""
+  description = """"""
 
 +++
