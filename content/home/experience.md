@@ -42,10 +42,8 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-12-01"
   date_end = ""
-  description = """
-  Teaching courses on data collection, text analysis and social media.
-  """
-
+  description = ""
+  
   """
 
 [[experience]]
