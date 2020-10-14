@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universität Mannheim
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,6 +73,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my homepage! I am a doctoral researcher in political science focusing on comparitive politics.
+My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
+their constituencies? To answer these questions I apply methods of quantatitive text analysis to all kinds of political text.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am particularly interested in internal conflicts inside political parties. This leads me to studying social media data, in particular Twitter. Politicians
+can take positions beyond the party line, so we can observe differences between members of the same party we would typically miss.
+
+I answer these questions using text-as-data. My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale.
+
