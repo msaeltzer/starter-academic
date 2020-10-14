@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """Teaching courses on data collection, text analysis and social media."""
   """
 
-
+[[experience]]
   title = "Student Research Assistant"
   company = "WiSo Laboratory"
   company_url = ""
