@@ -44,7 +44,18 @@ subtitle = ""
   name = "Statistics"
   description = "80% "  
   
-
+[[feature]]
+  icon = "linux"
+  icon_pack = "fas"
+  name = "Linux"
+  description = "30% Basic Ubuntu/Debian"  
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fas"
+  name = "Git"
+  description = "70% Daily Use"  
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
