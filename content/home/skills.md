@@ -20,12 +20,7 @@ subtitle = ""
   name = "R"
   description = "90% - Daily use and Teaching"
 
-[[feature]]
-  icon = "linux"
-  icon_pack = "fas"
-  name = "Linux"
-  description = "30% Basic Ubuntu/Debian"  
-  
+
 [[feature]]
   icon = "database"
   icon_pack = "fas"
