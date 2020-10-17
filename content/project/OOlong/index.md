@@ -1,6 +1,6 @@
 ---
 title: Oolong 
-summary: Oolong is an R package providing functions for semantic validation of topic modeling and dictionary-based methods, two main tools for doing. automated content analysis using `external_link`.
+summary: Oolong is an R package providing functions for semantic validation of topic modeling and dictionary-based methods, two main tools for doing. automated content analysis using `https://github.com/chainsawriot/oolong`.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"

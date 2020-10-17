@@ -1,6 +1,6 @@
 ---
 title: Visualizing POPPA
-summary: Visualizing POPPA using http://poppa-data.eu/`.
+summary: Visualizing POPPA using `http://poppa-data.eu/`.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
