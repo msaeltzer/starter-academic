@@ -1,13 +1,12 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- Marius Sältzer
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1177/1354068820957960"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
