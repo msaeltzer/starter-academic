@@ -27,13 +27,13 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+-  factions, intra-party heterogeneity, social media, Twitter
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/1354068820957960
 url_code: ''
 url_dataset: ''
 url_poster: ''
