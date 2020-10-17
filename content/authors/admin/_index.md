@@ -29,6 +29,10 @@ interests:
 
 education:
   courses:
+  - course: PhD Political Science 
+    institution: CDSS Mannhheim (Marc Debus)
+    year: since 2017
+
   - course: MA Comparative Politics 
     institution: Universität Hamburg
     year: 2017
