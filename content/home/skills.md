@@ -46,13 +46,13 @@ subtitle = ""
   
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
   description = "30% Basic Ubuntu/Debian"  
   
 [[feature]]
   icon = "github"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Git"
   description = "70% Daily Use"  
   
