@@ -93,5 +93,5 @@ their constituencies? To answer these questions I apply methods of quantatitive 
 My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale.
 using social media data. 
 
-
+My detailed CV you can find [here](https://github.com/msaeltzer/msaeltzer.github.io/blob/master/cv1.pdf)
 
