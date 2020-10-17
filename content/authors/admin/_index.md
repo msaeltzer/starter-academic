@@ -23,8 +23,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Party Politics
 - Intra-party heterogeneity
+- Legislative Behavior 
+- Political Communication
 - Social Media 
 - Text as Data
+- Data Science
 
 
 education:
@@ -81,12 +84,14 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral researcher in political science focusing on comparitive politics.
+Welcome! I am Marius, and I'm a doctoral researcher in political science. 
+
+
 My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
 their constituencies? To answer these questions I apply methods of quantatitive text analysis to all kinds of political text.
 
-I am particularly interested in internal conflicts inside political parties. This leads me to studying social media data, in particular Twitter. Politicians
-can take positions beyond the party line, so we can observe differences between members of the same party we would typically miss.
+My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale.
+using social media data. 
 
-I answer these questions using text-as-data. My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale.
+
 
