@@ -1,12 +1,12 @@
 ---
 title: "Twitter Made Me Do It! Twitter's Tonal Platform Incentive And Its Effect On Online Campaigning"
 authors:
-- Samuel Müller
+- Samuel David Müller
 - Marius Sältzer
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2020-10-20T00:00:00Z"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
