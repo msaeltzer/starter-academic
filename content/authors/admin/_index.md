@@ -59,7 +59,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marius_saeltzer
-- icon: ai-google-scholar
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=myokIq4AAAAJ&hl=de&oi=ao
 - icon: github
@@ -67,7 +67,7 @@ social:
   link: https://github.com/msaeltzer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: ai-cv
+- icon: cv
   icon_pack: ai
   link: static/files/cv.pdf
 
