@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sowi.uni-mannheim.de/debus/team/akademische-mitarbeiterinnen-und-mitarbeiter/saeltzer-marius/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My resaerch interests include party politics, text as data and social media
 
 interests:
 - Party Politics
@@ -93,5 +93,5 @@ their constituencies? To answer these questions I apply methods of quantatitive 
 My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale.
 using social media data. 
 
-My detailed CV you can find [here](https://github.com/msaeltzer/msaeltzer.github.io/blob/master/cv1.pdf)
+
 
