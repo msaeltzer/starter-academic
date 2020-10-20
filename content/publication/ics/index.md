@@ -1,5 +1,5 @@
 ---
-title: "Finding the bird’s wings: Dimensions of factional conflict on Twitter"
+title: "Twitter Made Me Do It! Twitter's Tonal Platform Incentive And Its Effect On Online Campaigning"
 authors:
 - Samuel Müller
 - Marius Sältzer
@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -35,12 +35,12 @@ tags:
 -  social media
 -  platform effects
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
