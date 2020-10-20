@@ -86,12 +86,12 @@ user_groups:
 
 Welcome! I am Marius, and I'm a doctoral researcher in political science. 
 
-
 My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
-their constituencies? To answer these questions I apply methods of quantatitive text analysis to all kinds of political text.
+their constituencies? To answer these questions I study political communication of legislators, parties and other key political actors. 
 
-My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale,
-using social media data. 
+My dissertation is about how political elites use social media: are they using it to signal their positions and priorities to the electorate? Are they influenced by the medium itself?
+
+Beyond that I am also interested in public opinion, in particular how to measure preferences of voters and social media users. 
 
 
 
