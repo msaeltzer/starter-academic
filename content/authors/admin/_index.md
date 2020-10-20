@@ -90,7 +90,7 @@ Welcome! I am Marius, and I'm a doctoral researcher in political science.
 My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
 their constituencies? To answer these questions I apply methods of quantatitive text analysis to all kinds of political text.
 
-My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale.
+My dissertation develops means to summarize and compare positions of parties and individual politicians on a common scale,
 using social media data. 
 
 
