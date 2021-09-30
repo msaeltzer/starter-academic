@@ -19,12 +19,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "GESIS - Department of Computational Social Science"
+  company_url = ""
+  location = "Basel"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Text Analysis
+  * Databases
+  * API
+  """
+
+
+[[experience]]
+  title = "Doctoral Researcher"
+  company = "Universität Basel"
+  company_url = ""
+  location = "Basel"
+  date_start = "2021-02-01"
+  date_end = "2021-07-30"
+  description = """
+  Responsibilities include:
+  
+  * Image Analysis
+  """
+
+
+[[experience]]
   title = "Doctoral Researcher"
   company = "MZES Universität Mannheim"
   company_url = ""
   location = "Mannheim"
   date_start = "2018-11-01"
-  date_end = ""
+  date_end = "2021-07-24"
   description = """
   Responsibilities include:
   
