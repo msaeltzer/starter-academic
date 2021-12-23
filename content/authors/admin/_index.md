@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marius Sältzer
+title: Dr. Marius Sältzer
 
 # Username (this should match the folder name)
 authors:
