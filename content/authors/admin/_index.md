@@ -15,7 +15,7 @@ role: Post-Doctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: GESIS Department for Computational Social Science
-  url: "https://www.sowi.uni-mannheim.de/debus/team/akademische-mitarbeiterinnen-und-mitarbeiter/saeltzer-marius/"
+  url: "https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Marius.Saeltzer"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My resaerch interests include party politics, text as data and social media
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD Political Science 
     institution: CDSS Mannhheim (Marc Debus)
-    year: since 2017
+    year: 2017 - 2021
 
   - course: MA Comparative Politics 
     institution: Universität Hamburg
