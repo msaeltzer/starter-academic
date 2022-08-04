@@ -6,7 +6,7 @@ tags:
 date: "2022-07-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.spiegel.de/politik/deutschland/twitter-analyse-von-politiker-tweets-in-den-sozialen-medien-kann-auch-ein-gruener-von-seinem-mercedes-schwaermen-a-2a48aaca-06e9-4994-b088-81360724903"
 
 image:
   caption: Positions
