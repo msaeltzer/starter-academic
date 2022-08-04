@@ -17,9 +17,9 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/marius_saeltzer
-url_code: "https://www.spiegel.de/politik/deutschland/twitter-analyse-von-politiker-tweets-in-den-sozialen-medien-kann-auch-ein-gruener-von-seinem-mercedes-schwaermen-a-2a48aaca-06e9-4994-b088-81360724903"
+url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://www.spiegel.de/politik/deutschland/twitter-analyse-von-politiker-tweets-in-den-sozialen-medien-kann-auch-ein-gruener-von-seinem-mercedes-schwaermen-a-2a48aaca-06e9-4994-b088-81360724903
 url_video: ""
 
 # Slides (optional).
