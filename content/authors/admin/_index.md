@@ -84,7 +84,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am Marius, and I'm a post doc in political data science.
+Welcome! I am Marius, and I'm an professor in political data science.
 
 My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
 their constituencies? To answer these questions I study political communication of legislators, parties and other key political actors. 
