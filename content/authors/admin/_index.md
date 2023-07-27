@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Marius Sältzer
+title: Marius Sältzer
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-Doctoral Researcher
+role: Assistant Professor (Juniorprofessor, TT)
 
 # Organizations/Affiliations
 organizations:
-- name: GESIS Department for Computational Social Science
-  url: "https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Marius.Saeltzer"
+- name: Carl von Ossietzky University Oldenburg
+  url: "https://uol.de/digital-social-science/lenbenslauf"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My resaerch interests include party politics, text as data and social media
