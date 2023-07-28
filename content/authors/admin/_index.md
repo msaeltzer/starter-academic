@@ -84,10 +84,9 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am Marius, and I'm an professor in political data science.
+Welcome! I am Marius, and I'm a professor of digital social science at the University of Oldenburg.
 
-My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and
-their constituencies? To answer these questions I study political communication of legislators, parties and other key political actors. 
+My research revolves around the dimensions of political conflict. What issues matter for the public, political parties and their constituencies? To answer these questions I study political communication of legislators, parties and other key political actors. 
 
 My dissertation is about how political elites use social media: are they using it to signal their positions and priorities to the electorate? Are they influenced by the medium itself?
 
